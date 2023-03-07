@@ -17,3 +17,7 @@ Machine learning techniques can help reduce the time required tremenduosly
 These Lorentzian parameters are used as ground truths for training the models.
 
 This repository shows the use of a **CNN+LSTM** model to output these parameters (prediction of **amplitude of only amide pool** is shown in these demonstration)
+
+- The notebook **data_processing_and_model_predictions.ipynb** includes the various techniques used for **preprocessing the raw data, and generating the ground truths using Lorentzian fitting**  
+- The notebook **model_training.ipynb** shows how the **model was trained**  
+- The **last** part of **data_processing_and_model_predictions.ipynb** notebook shows the **predictions along with respective uncertainties**
