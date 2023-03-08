@@ -20,7 +20,7 @@ This repository shows the use of a **CNN+LSTM** model to output these parameters
 
 - The notebook **data_processing_and_model_predictions.ipynb** includes the various techniques used for **preprocessing the raw data, and generating the ground truths using Lorentzian fitting**  
 - The notebook **model_training.ipynb** shows how the **model was trained**  
-- The **last** part of **data_processing_and_model_predictions.ipynb** notebook shows the **predictions **  
+- The **last** part of **data_processing_and_model_predictions.ipynb** notebook shows the **predictions**  
   
   <br>
    
